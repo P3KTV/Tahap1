@@ -95,8 +95,38 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", ESPN
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Nova Sport
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/9934.ts
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", bEin sPort 3
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/899.ts
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Live
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Live 1
+http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
+
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/SK2_HR_logo.png?1737016617" group-title="No SignaL 📺", SK 2 HD
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33331.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png" group-title="No SignaL 📺", SK 3 HD
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=49992&extension=m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport 1
+http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport_1
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/709
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport_2
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/708
+
+#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", PoL
+http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
 
 
 
