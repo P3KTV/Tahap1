@@ -80,53 +80,87 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="ttps://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="No SignaL 📺", beIN Sports 5
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png" group-title="No SignaL 📺", beIN Sports 5
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/652/652-LOGO-m.png" group-title="No SignaL 📺", Sportstars 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="No SignaL 📺", SportStars 1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="No SignaL 📺", Sportstars 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="No SignaL 📺", SportStars 2
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", ESPN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Sportstars_3.png/640px-Sportstars_3.png" group-title="No SignaL 📺", SportStars 3
+#KODIPROP:inputstream.adaptive.license_type=https://multidrm.core.verimatrixcloud.net/widevine
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/kvdrm.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla\/5.0 (Linux; Android 9; CPH2083 Build\/PPR1.180610.011) AppleWebKit\/537.36
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="No SignaL 📺", SportStars 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd|referrer=https://visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/554px-ESPN_wordmark.svg.png" group-title="No SignaL 📺", ESPN
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/14920
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Nova Sport
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/NovaSport.png" group-title="No SignaL 📺", Nova Sport
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/9934.ts
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", bEin sPort 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Logo_bein_sports_3.png/330px-Logo_bein_sports_3.png" group-title="No SignaL 📺", bEin Sports 3
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/899.ts
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Live
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", Live
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Live 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", Live 1
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/186176.ts
 
 #EXTINF:-1 tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/SK2_HR_logo.png?1737016617" group-title="No SignaL 📺", SK 2 HD
 http://faucontv.live:80/live:.cid.651406f830eed3072/df3cHkaUue/33331.ts
 
-#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/logo/v79xr71604073804.png" group-title="No SignaL 📺", SK 3 HD
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Sportklub_3_HD.svg/revision/latest/scale-to-width-down/200?cb=20220305193613" group-title="No SignaL 📺", SK 3 HD
 http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=49992&extension=m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", Sport 1
 http://live-tv.uk:8080/Crach_Iptv/Hekxbjelsofjur628264772new/866
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport_1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", Sport_1
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/709
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", Sport_2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", Sport_2
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/708
 
-#EXTINF:-1 tvg-logo="" group-title="No SignaL 📺", PoL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jWpYK5D.png" group-title="No SignaL 📺", PoL
 http://medotv.nl:8000/RAMBOfoundedoninternetsoIchangedTheFuckinguSERNAMelol123/5caU9cN5jFjZ/117221
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObEjZo.png" group-title="No SignaL 📺", Motorsport
+http://doubleclicktv.live/70376812/52663544/279619
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObEjZo.png" group-title="No SignaL 📺", Sport 2
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:19:1F:37&stream=80321&extension=m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WObEjZo.png" group-title="No SignaL 📺", Polsat Sport 1
+http://m.devtv.biz:80/play/live.php?mac=00:1A:79:51:2F:ED&stream=42961&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="No SignaL 📺", Bulu Tangkis
+http://c.proserver.in:8080/wrXPmyab67D/hHnDqaKBGy8/11754
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h9oxeQe.png" group-title="No SignaL 📺", Bulu Tangkis 1
+http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/501593
+
+#EXTINF:-1 tvg-logo="https://image.sbs.co.kr/medianet/favicon/sports_logo.png" group-title="No SignaL 📺", SBS Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://iptv12k.com:35461/live/654321/123456/3214.m3u8
 
 
 
@@ -12831,7 +12865,7 @@ Cara Sniffing Live TV di Chrome
 
 
 # ――――――――――――――――――――――――――――――――――――――――――――――
-# (●) Last Update: 2025-03-20 10:05:00 GMT+7 "
+# (●) Last Update: 2025-03-21 10:05:00 GMT+7 "
 # (●) Service: NoSignaL
 # (●) Total Channels: Null
 # ――――――――――――――――――――――――――――――――――――――――――――――
