@@ -2650,7 +2650,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0pnMMg.png" group-title="Nasional 🇮🇩", RCTI
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩", MNCTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c3004565365a42d08e3bde39a516d64e:dbfdc0967cfbbed01dba730c99d9c14a
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
