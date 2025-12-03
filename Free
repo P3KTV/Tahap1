@@ -13304,6 +13304,75 @@ http://thefirefox12537.github.io/streams/nosignal/02.m3u8
 {https://github.com/KiNoyTV/list/raw/main/No_SigNaL.ts}
 {https://raw.githubusercontent.com/KiNoyTV/list/main/No%20SignaL.mp4}
 
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Bukit Barisan | Harapan Raya
+https://cctv.pekanbaru.go.id/hls/cam1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Soedirman | Harapan Raya
+https://cctv.pekanbaru.go.id/hls/cam2/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - FlyOver Soedirman (RS. Syafira)
+https://cctv.pekanbaru.go.id/hls/cam3/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Ahmad Dahlan | Durian
+https://cctv.pekanbaru.go.id/hls/cam4/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Harapan Raya - Kelapa Sawit
+https://cctv.pekanbaru.go.id/hls/cam5/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Simpang Labersa - Parit Indah
+https://cctv.pekanbaru.go.id/hls/cam6/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Simpang Bandara
+https://cctv.pekanbaru.go.id/hls/cam7/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Taman Labuai 1
+https://cctv.pekanbaru.go.id/hls/cam8/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Taman Labuai 2
+https://cctv.pekanbaru.go.id/hls/cam9/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Taman Labuai 3
+https://cctv.pekanbaru.go.id/hls/cam10/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Taman Labuai 4
+https://cctv.pekanbaru.go.id/hls/cam11/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - JPO MTQ 1
+https://cctv.pekanbaru.go.id/hls/cam12/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - JPO MTQ 2
+https://cctv.pekanbaru.go.id/hls/cam13/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Sudirman - Tengku Bey 1
+https://cctv.pekanbaru.go.id/hls/cam14/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Sudirman - Tengku Bey 2
+https://cctv.pekanbaru.go.id/hls/cam15/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Sudirman - Tengku Bey 3
+https://cctv.pekanbaru.go.id/hls/cam16/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Sudirman - Harapan Raya 1
+https://cctv.pekanbaru.go.id/hls/cam17/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Pasar Bawah
+https://cctv.pekanbaru.go.id/hls/cam18/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Rumah Singgah Tuan Kadi 1
+https://cctv.pekanbaru.go.id/hls/cam19/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Rumah Singgah Tuan Kadi 2
+https://cctv.pekanbaru.go.id/hls/cam20/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Rumah Singgah Tuan Kadi 3
+https://cctv.pekanbaru.go.id/hls/cam21/index.m3u8
+
+#EXTINF:0 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", PKU - Rumah Singgah Tuan Kadi 4
+https://cctv.pekanbaru.go.id/hls/cam22/index.m3u8
+
+
+https://cctv.pekanbaru.go.id/hls/cam1/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.starjogja.com/assets/2017/02/cctv-icon.png" group-title="CCTV inDo", Malioboro_1_Selatan_Teteg - JogJa
 https://cctvjss.jogjakota.go.id/malioboro/Malioboro_1_Selatan_Teteg.stream/playlist.m3u8
 
@@ -15233,7 +15302,7 @@ https://ia800402.us.archive.org/16/items/MisharyRasyidPerJuz/Mishary/30.mp3
 
 
 Cara Sniffing Live TV di Chrome
-1. instal Chrome extension "Network Sniffer"
+1. instal Chrome extension "Network Sniffer" "Network Inspector"
 2. buka website live streaming ( vidio.com, visionplus.id, useetv.com indihometv.com )
 3. klik tombol "Network Sniffer"
 4. cari link dengan ektensi = ts, m3u, m3u8 atau mpd dkk
