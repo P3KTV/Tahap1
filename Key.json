@@ -1,7 +1,7 @@
 {
   "showDialog": true,
   "title": "📺  𝗣𝟯𝗞🆃🆅™",
-  "description": "[ 𝗧𝗲𝗿𝘂𝘀 𝗡𝗼𝗻𝘁𝗼𝗻 - 𝗡𝗼𝗻𝘁𝗼𝗻 𝗧𝗲𝗿𝘂𝘀 ]",
+  "description": "[ 𝗧𝗲𝗿𝘂𝘀 𝗡𝗼𝗻𝘁𝗼𝗻 - 𝗡𝗼𝗻𝘁𝗼𝗻 𝗧𝗲𝗿𝘂𝘀 ]" \n \n by D.O.S.A™,
   "button": "LOGIN ✨",
   "toast": "😜 𝙎𝙚𝙡𝙖𝙢𝙖𝙩 𝙈𝙚𝙣𝙮𝙖𝙠𝙨𝙞𝙠𝙖𝙣 !",
   "renewUrl": "https://t.me/rasyid_22",
@@ -47,6 +47,24 @@
       "username": "demo",
       "password": "demo123",
       "expire_date": "2026-04-15"
+    },
+    {
+      "device_id": "732cc70dba6d2099",
+      "username": "Frida",
+      "password": "12345",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "device_id": "28c470215c375c08",
+      "username": "Sulaiman",
+      "password": "12345",
+      "expire_date": "2026-01-31"
+    },
+    {
+      "device_id": "856bbdae537cc3be",
+      "username": "Tati",
+      "password": "12345",
+      "expire_date": "2026-01-31"
     },
     {
       "device_id": "xxx",
